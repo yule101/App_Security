@@ -27,12 +27,6 @@
 
 #### 加壳脱壳
 
-- [Android中的Apk的加固(加壳)原理解析和实现](https://blog.csdn.net/jiangwei0910410003/article/details/48415225/)
-- [APK脱壳简介](http://www.bigfog.info/2018/04/15/Apk%E8%84%B1%E5%A3%B3%E7%AE%80%E4%BB%8B/)
-- [Apk脱壳圣战之---脱掉“爱加密”的壳](https://blog.csdn.net/jiangwei0910410003/article/details/51620236)
-- [Apk脱壳圣战之---脱掉“360加固”的壳](https://blog.csdn.net/jiangwei0910410003/article/details/51769447)
-- [Apk脱壳圣战之---如何脱掉“梆梆加固”的保护壳](https://blog.csdn.net/jiangwei0910410003/article/details/54409957)
-- [拿到一个apk包后，怎么判断其是否加壳了？是否做了代码混淆？](https://www.zhihu.com/question/26438444)
 - [常见app加固厂商脱壳方法研究](https://paper.seebug.org/44/)
 - [[翻译]老外挑战360加固--实战分析（很详细）](https://bbs.pediy.com/thread-225561.htm)
 
